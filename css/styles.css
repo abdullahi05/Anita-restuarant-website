@@ -87,3 +87,12 @@ background-color: transparent;
 height: 50px;
 width: 75px;
 }
+.bg-1{
+padding: 0;
+}
+.bg-10{
+padding: 0;
+}
+.bg-00{
+background-color:#F15A29;
+}
