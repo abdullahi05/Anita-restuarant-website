@@ -1,3 +1,59 @@
-.img-responsive{
-  text-align: center;
+.media{
+padding: 0;
+height: 850px;
+width:100%;
+background-image: url(../image/landing.jpg);
+ background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+margin-top: 70px;
+}
+.media2{
+padding: 0;
+height: 600px;
+width:100%;
+background-image: url(../image/foodsBg.jpg);
+ background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+.media3{
+padding: 0;
+height: 300px;
+width:100%;
+background-image: url(../image/subscribe.jpg);
+ background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+.overlay{
+padding: 0;
+margin: auto;
+width: 100%;
+height: 850px;
+background: black;
+background:rgba(0,0,0,0.0);
+}
+
+.header{
+margin-top: 3%;
+text-align: center;
+font-family:monospace, Open Sans;
+color: white;
+font-size: 60px;
+}
+.logo{
+margin-top: 4%;
+text-align: center;
+}
+.men{
+margin-top: 20px;
+margin-left: 20px;
+background-color: transparent;
+height: 50px;
+width: 75px;
 }
