@@ -250,10 +250,11 @@ background-color: #ffffff;
   margin-left: 50%
 }
 .menu{
-  text-align: right;
+  text-align: center;
   color: white;
-  margin-top: 5px;
-  font-size: 25px;
-  margin-left: 15%;
+  margin-top: -40px;
+  font-size: 27px;
+  margin-left: 50%;
   margin-bottom:100px;
+  margin-right: 450px;
 }
