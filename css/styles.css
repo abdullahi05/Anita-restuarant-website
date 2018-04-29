@@ -240,7 +240,12 @@ background-color: #ffffff;
   color: white;
 }
 .color{
-  background-color: orange;
+  background-color: red;
   height: 250px;
   width: 100%;
+}
+.hamlogo{
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50%
 }
