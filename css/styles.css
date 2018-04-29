@@ -239,3 +239,8 @@ background-color: #ffffff;
   background-color: transparent;
   color: white;
 }
+.color{
+  background-color: orange;
+  height: 250px;
+  width: 100%;
+}
