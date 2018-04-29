@@ -230,3 +230,8 @@ background-color: #ffffff;
   text-align: center;
   font-family: monospace;
 }
+.btn{
+  background-color: orange;
+  font-family: sans-serif;
+  width: 120px;
+}
