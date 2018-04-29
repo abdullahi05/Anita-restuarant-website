@@ -235,3 +235,7 @@ background-color: #ffffff;
   font-family: sans-serif;
   width: 120px;
 }
+#fname{
+  background-color: transparent;
+  color: white;
+}
