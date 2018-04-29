@@ -225,3 +225,7 @@ background-color: #ffffff;
   text-align: center;
   margin-top: 100px;
 }
+.form{
+  border-color:  transparent;
+  text-align: center;
+}
