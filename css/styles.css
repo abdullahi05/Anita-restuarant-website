@@ -265,8 +265,23 @@ background-color: #ffffff;
   margin-top: -85px;
   margin-left: 11%;
 }
-.container {
-    position: relative;
-    text-align: center;
-    color: grey;
+.footer{
+padding: 0;
+height: 300px;
+width:100%;
+background-color:#F15A29;
+}
+.social{
+text-align: center;
+margin-top: 3%;
+color: #ffffff;
+}
+.ann{
+  text-align: center;
+  color: white;
+  margin-left: 49%;
+}
+.social{
+  margin-left: 12%;
+  margin-top: 1%;
 }
